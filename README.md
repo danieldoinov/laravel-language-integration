@@ -14,7 +14,7 @@
 Via Composer
 
 ``` bash
-$ composer require danieldoinov/LanguageIntegration
+$ composer require danieldoinov/languageintegration
 ```
 
 This package has integrated geo-location that uses the following package
