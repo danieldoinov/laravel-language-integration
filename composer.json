@@ -1,5 +1,5 @@
 {
-    "name": "DanielDoinov/LanguageIntegration",
+    "name": "danieldoinov/languageintegration",
     "type": "library",
     "description": "The package introduces dynamic language change capability for a laravel instance.",
     "keywords": [
